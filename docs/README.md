@@ -9,5 +9,7 @@ Each section reflects the state of the project at the time of writing.
 
 ## Sections
 
-- Section 1 — Introduction & Purpose  
-  https://github.com/kairoxtime/kairox/blob/main/docs/KAIROX_Section_1.pdf
+- **Section 1 — Introduction & Purpose**  
+  [Read PDF](KAIROX_Section_1.pdf)
+
+
