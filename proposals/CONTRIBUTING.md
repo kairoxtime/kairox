@@ -21,9 +21,9 @@ You can contribute in several ways:
 - Supporting community initiatives  
 
 Before contributing, please review:  
-- [SECURITY.md](./SECURITY.md)  
-- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)  
-- [GOVERNANCE_FRAMEWORK.md](./GOVERNANCE_FRAMEWORK.md)
+- [SECURITY.md](../SECURITY.md)  
+- [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md)  
+- [GOVERNANCE_FRAMEWORK.md](../GOVERNANCE_FRAMEWORK.md)
 
 ---
 
@@ -99,7 +99,6 @@ Official footer:
 
 ## 7. Code Standards  
 For smart contracts and programs:  
-- Follow Solana development best practices  
 - Use clear variable names  
 - Avoid unnecessary complexity  
 - Include comments for critical logic  
@@ -120,14 +119,14 @@ When opening an issue:
 - Tag the issue appropriately  
 
 Security issues must **not** be reported publicly.  
-Use the process in [SECURITY.md](./SECURITY.md).
+Use the process in [SECURITY.md](../SECURITY.md).
 
 ---
 
 ## 9. Governance Contributions  
 Proposals must follow:  
-- [PROPOSALS_OVERVIEW.md](./proposals/PROPOSALS_OVERVIEW.md)  
-- [KAIROX_PROPOSAL_TEMPLATE.md](./proposals/KAIROX_PROPOSAL_TEMPLATE.md)
+- [PROPOSALS_OVERVIEW.md](../PROPOSALS_OVERVIEW.md)  
+- [KAIROX_PROPOSAL_TEMPLATE.md](../KAIROX_PROPOSAL_TEMPLATE.md)
 
 All governance changes require community review and approval.
 
@@ -135,7 +134,7 @@ All governance changes require community review and approval.
 
 ## 10. Contributor Conduct  
 All contributors must follow:  
-- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
+- [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md)
 
 Harassment, discrimination, or abusive behavior will not be tolerated.
 
