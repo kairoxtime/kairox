@@ -49,5 +49,6 @@ Contains:
 
 ---
 
+Prepared by O. KAIROX — Founder  
 KAIROX — Humanitarian Blockchain Project  
 © All Rights Reserved
