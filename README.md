@@ -1,162 +1,72 @@
-# KAIROX  
-Humanitarian Blockchain Project on Solana
+# KAIROX — Humanitarian Blockchain Protocol  
+*A transparent, community‑governed framework for global humanitarian coordination.*
 
----
+## Overview  
+KAIROX is a humanitarian blockchain protocol designed to coordinate missions, proposals, funding, and community governance with full transparency. This repository contains the institutional documentation, governance framework, operational processes, and templates that define the KAIROX ecosystem.
 
-## 🌍 Overview
+## Mission  
+To empower global humanitarian action through transparent, decentralized, and community‑driven coordination. KAIROX provides a structured, auditable, and scalable framework for missions, proposals, and long‑term stewardship.
 
-KAIROX is a humanitarian‑driven blockchain initiative built on the Solana network.  
-Its mission is to deliver real‑world impact through transparent, verifiable, and community‑governed actions that support vulnerable individuals and communities.
+## Repository Structure  
 
-KAIROX operates with a strict commitment to:
+### Root Documents  
+- [WHITEPAPER_V1.md](./WHITEPAPER_V1.md)  
+- [ROADMAP_V1.md](./ROADMAP_V1.md)  
+- [SECURITY.md](./SECURITY.md)  
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)  
+- [GOVERNANCE_FRAMEWORK.md](./GOVERNANCE_FRAMEWORK.md)  
+- [PROPOSALS_OVERVIEW.md](./PROPOSALS_OVERVIEW.md)  
+- [KAIROX_PROPOSAL_TEMPLATE.md](./KAIROX_PROPOSAL_TEMPLATE.md)  
+- [MISSION_PROCESS.md](./MISSION_PROCESS.md)  
+- [IMPACT_REPORT_TEMPLATE.md](./IMPACT_REPORT_TEMPLATE.md)  
+- [INDEX.md](./INDEX.md)
 
-- Transparency  
-- Ethical stewardship  
-- Decentralized governance  
-- Public accountability  
-- Verifiable humanitarian impact  
+### Proposals (`/proposals`)  
+- [CONTRIBUTING.md](./proposals/CONTRIBUTING.md)  
+- [README.md](./proposals/README.md)  
+- Proposal templates, governance documents, and proposal archives
 
-All treasury actions, mission reports, and governance decisions are publicly documented and verifiable on‑chain.
+### Missions (`/missions`)  
+- [README.md](./missions/README.md)  
+- Mission archives and operational documentation
 
----
+### Archive (`/archive`)  
+- Historical documents and deprecated materials
 
-## 📘 Core Documentation
+## Governance  
+KAIROX governance is defined by a transparent, community‑driven framework. All contributors and participants must follow:  
+- [GOVERNANCE_FRAMEWORK.md](./GOVERNANCE_FRAMEWORK.md)  
+- [PROPOSALS_OVERVIEW.md](./PROPOSALS_OVERVIEW.md)  
+- [KAIROX_PROPOSAL_TEMPLATE.md](./KAIROX_PROPOSAL_TEMPLATE.md)
 
-All institutional documents are located in the `/docs` directory:
+Governance decisions follow structured review, evaluation, and approval processes.
 
-- [WHITEPAPER_V1.md](/docs/WHITEPAPER_V1.md)  
-- [ROADMAP_V1.md](/docs/ROADMAP_V1.md)  
-- [GOVERNANCE_FRAMEWORK.md](/docs/GOVERNANCE_FRAMEWORK.md)  
-- [TREASURY_POLICY.md](/docs/TREASURY_POLICY.md)  
-- [MISSION_PROCESS.md](/docs/MISSION_PROCESS.md)  
-- [BRAND_GUIDELINES.md](/docs/BRAND_GUIDELINES.md)  
-- [LEGAL_DISCLAIMER.md](/docs/LEGAL_DISCLAIMER.md)  
-- [KAIROX_PROPOSAL_TEMPLATE.md](/docs/KAIROX_PROPOSAL_TEMPLATE.md)  
-- [IMPACT_REPORT_TEMPLATE.md](/docs/IMPACT_REPORT_TEMPLATE.md)
+## Security  
+Security is a core pillar of KAIROX. All contributors must follow:  
+- [SECURITY.md](./SECURITY.md)
 
-A full navigation index is available in:
+Security issues must **not** be reported publicly. Follow the private reporting process described in the document.
 
-[INDEX.md](/INDEX.md)
+## Contributing  
+We welcome contributions aligned with the mission and governance of KAIROX. Before contributing, please review:  
+- [CONTRIBUTING.md](./proposals/CONTRIBUTING.md)  
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)  
+- [SECURITY.md](./SECURITY.md)
 
----
+All contributions must follow the institutional commit message format and documentation standards.
 
-## 🗳️ Governance
+## Code of Conduct  
+All community members and contributors must follow:  
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
 
-KAIROX uses a decentralized governance model where token holders participate in:
+Respect, professionalism, and integrity are mandatory across all interactions.
 
-- Proposal creation  
-- Community discussion  
-- Voting  
-- Execution oversight  
+## Documentation Index  
+A complete index of all documents is available here:  
+- [INDEX.md](./INDEX.md)
 
-Governance rules and processes are defined in:
-
-[Governance Framework](/docs/GOVERNANCE_FRAMEWORK.md)
-
-Proposals follow the KAIROX Improvement Proposal (KIP) format.
-
----
-
-## 💰 Treasury Transparency
-
-The KAIROX treasury is:
-
-- Fully public  
-- Multisig‑secured  
-- Community‑approved  
-- Dedicated exclusively to humanitarian missions  
-
-Treasury rules and reporting standards are defined in:
-
-[Treasury Policy](/docs/TREASURY_POLICY.md)
-
----
-
-## 🌱 Humanitarian Missions
-
-All missions follow a standardized lifecycle:
-
-1. Proposal submission  
-2. Community discussion  
-3. Governance vote  
-4. Execution  
-5. Impact reporting  
-6. Archival  
-
-Mission process details:
-
-[Mission Process](/docs/MISSION_PROCESS.md)
-
-Impact reports are stored in:
-
-[Impact Reports](/impact-reports)
-
----
-
-## 🧩 Community Standards
-
-Community guidelines are located in the `/community` directory:
-
-- [CONTRIBUTING.md](/community/CONTRIBUTING.md)  
-- [CODE_OF_CONDUCT.md](/community/CODE_OF_CONDUCT.md)  
-- [SECURITY.md](/community/SECURITY.md)
-
-These documents ensure respectful collaboration and responsible disclosure.
-
----
-
-## 🎨 Brand Identity
-
-Brand assets and guidelines are located in:
-
-[Brand Guidelines](/docs/BRAND_GUIDELINES.md)  
-[Brand Assets](/assets/brand)
-
-The brand reflects:
-
-- Professionalism  
-- Minimalism  
-- Transparency  
-- Humanitarian purpose  
-
----
-
-## 🧱 Repository Structure
-
-
-Each folder contains standardized, institution‑grade documentation.
-
----
-
-## ⚠️ Legal Disclaimer
-
-KAIROX does not provide financial, legal, or investment advice.  
-Participation involves risks associated with blockchain technology and decentralized governance.
-
-Full disclaimer:
-
-[LEGAL_DISCLAIMER.md](/docs/LEGAL_DISCLAIMER.md)
-
----
-
-## 🤝 Contributing
-
-KAIROX welcomes contributors who align with the project’s humanitarian mission.  
-Contribution guidelines:
-
-[CONTRIBUTING.md](/community/CONTRIBUTING.md)
-
----
-
-## 📬 Contact & Participation
-
-KAIROX is a community‑driven project.  
-Participation occurs through:
-
-- Governance proposals  
-- Mission execution  
-- Community discussion  
-- Transparent reporting  
+## Legal  
+All contributions are made under the project’s license and may be used, modified, and distributed as part of the KAIROX ecosystem.
 
 ---
 
