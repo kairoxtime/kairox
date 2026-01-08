@@ -1,5 +1,5 @@
 # KAIROX — Humanitarian Blockchain Protocol  
-*A transparent, community‑governed framework for global humanitarian coordination.*
+A transparent, community‑governed framework for global humanitarian coordination.
 
 ## Overview  
 KAIROX is a humanitarian blockchain protocol designed to coordinate missions, proposals, funding, and community governance with full transparency. This repository contains the institutional documentation, governance framework, operational processes, and templates that define the KAIROX ecosystem.
@@ -45,7 +45,7 @@ Governance decisions follow structured review, evaluation, and approval processe
 Security is a core pillar of KAIROX. All contributors must follow:  
 - [SECURITY.md](./SECURITY.md)
 
-Security issues must **not** be reported publicly. Follow the private reporting process described in the document.
+Security issues must not be reported publicly. Follow the private reporting process described in the document.
 
 ## Contributing  
 We welcome contributions aligned with the mission and governance of KAIROX. Before contributing, please review:  
@@ -67,6 +67,10 @@ A complete index of all documents is available here:
 
 ## Legal  
 All contributions are made under the project’s license and may be used, modified, and distributed as part of the KAIROX ecosystem.
+
+## License  
+This project is released under the MIT License.  
+See the full license text here: [LICENSE](./LICENSE.md)
 
 ---
 
