@@ -99,7 +99,6 @@ Official footer:
 
 ## 7. Code Standards  
 For smart contracts and programs:  
-- Follow Solana development best practices  
 - Use clear variable names  
 - Avoid unnecessary complexity  
 - Include comments for critical logic  
@@ -126,8 +125,8 @@ Use the process in [SECURITY.md](./SECURITY.md).
 
 ## 9. Governance Contributions  
 Proposals must follow:  
-- [PROPOSALS_OVERVIEW.md](./proposals/PROPOSALS_OVERVIEW.md)  
-- [KAIROX_PROPOSAL_TEMPLATE.md](./proposals/KAIROX_PROPOSAL_TEMPLATE.md)
+- [PROPOSALS_OVERVIEW.md](./PROPOSALS_OVERVIEW.md)  
+- [KAIROX_PROPOSAL_TEMPLATE.md](./KAIROX_PROPOSAL_TEMPLATE.md)
 
 All governance changes require community review and approval.
 
