@@ -4,7 +4,7 @@ Complete Navigation Map for All Project Materials
 ---
 
 ## 📘 Core Institutional Documents
-- [WHITEPAPER_V1.md](/WHITEPAPER_V1.md)
+- [WHITEPAPER_V1.md](./missions/WHITEPAPER_V1.md)
 - [ROADMAP_V1.md](/ROADMAP_V1.md)
 - [GOVERNANCE_FRAMEWORK.md](/GOVERNANCE_FRAMEWORK.md)
 - [TREASURY_POLICY.md](/TREASURY_POLICY.md)
