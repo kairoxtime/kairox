@@ -10,7 +10,7 @@ To empower global humanitarian action through transparent, decentralized, and co
 ## Repository Structure  
 
 ### Root Documents  
-- [WHITEPAPER_V1.md](./WHITEPAPER_V1.md)  
+- [WHITEPAPER_V1.md](./missions/WHITEPAPER_V1.md)
 - [ROADMAP_V1.md](./ROADMAP_V1.md)  
 - [SECURITY.md](./SECURITY.md)  
 - [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)  
