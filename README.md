@@ -1,9 +1,9 @@
 # KAIROX — Humanitarian Blockchain Protocol  
-![Status](https://img.shields.io/badge/Status-Audit%20Phase%201-blue)
-![Governance](https://img.shields.io/badge/Governance-Active-blueviolet)
-![Documentation](https://img.shields.io/badge/Documentation-Structured-success)
-![Security](https://img.shields.io/badge/Security-Policy%20Enforced-red)
-![License](https://img.shields.io/badge/License-MIT-black)
+[![Status](https://img.shields.io/badge/Status-Audit%20Phase%201-blue)](https://github.com/kairoxtime/kairox/issues)
+[![Governance](https://img.shields.io/badge/Governance-Active-blueviolet)](https://github.com/kairoxtime/kairox#governance)
+[![Documentation](https://img.shields.io/badge/Documentation-Structured-success)](https://github.com/kairoxtime/kairox/tree/main)
+[![Security](https://img.shields.io/badge/Security-Policy%20Enforced-red)](https://github.com/kairoxtime/kairox/blob/main/SECURITY.md)
+[![License](https://img.shields.io/badge/License-MIT-black)](https://github.com/kairoxtime/kairox/blob/main/LICENSE.md)
 
 A transparent, community‑governed framework for global humanitarian coordination.
 
@@ -78,7 +78,7 @@ A complete index of all documents is available here:
 KAIROX maintains a structured, audit‑ready issue system to ensure long‑term transparency, documentation integrity, and governance alignment.  
 All institutional reviews are organized through:
 
-- **Institutional Audit Dashboard (#11)** — Centralized view of all Phase 1 audits  
+- **[Institutional Audit Dashboard (#11)](https://github.com/kairoxtime/kairox/issues/11)** — Centralized view of all Phase 1 audits  
 - **Standardized institutional labels** (`institutional`, `audit`, `documentation`, `structure`, `governance`, `terminology`, `roadmap`)  
 - **Three governance milestones**:
   - Institutional Audit — Phase 1  
