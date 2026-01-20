@@ -1,4 +1,10 @@
 # KAIROX — Humanitarian Blockchain Protocol  
+![Status](https://img.shields.io/badge/Status-Audit%20Phase%201-blue)
+![Governance](https://img.shields.io/badge/Governance-Active-blueviolet)
+![Documentation](https://img.shields.io/badge/Documentation-Structured-success)
+![Security](https://img.shields.io/badge/Security-Policy%20Enforced-red)
+![License](https://img.shields.io/badge/License-MIT-black)
+
 A transparent, community‑governed framework for global humanitarian coordination.
 
 ## Overview  
