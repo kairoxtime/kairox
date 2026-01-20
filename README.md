@@ -65,6 +65,24 @@ Respect, professionalism, and integrity are mandatory across all interactions.
 A complete index of all documents is available here:  
 - [INDEX.md](./INDEX.md)
 
+---
+
+## Institutional Audits & Governance Tracking
+
+KAIROX maintains a structured, audit‑ready issue system to ensure long‑term transparency, documentation integrity, and governance alignment.  
+All institutional reviews are organized through:
+
+- **Institutional Audit Dashboard (#11)** — Centralized view of all Phase 1 audits  
+- **Standardized institutional labels** (`institutional`, `audit`, `documentation`, `structure`, `governance`, `terminology`, `roadmap`)  
+- **Three governance milestones**:
+  - Institutional Audit — Phase 1  
+  - Governance & Documentation Consolidation — Phase 2  
+  - Protocol Activation & Contributor Onboarding — Phase 3  
+
+These elements work together to maintain clarity, structure, and audit‑readiness across the entire repository.
+
+---
+
 ## Legal  
 All contributions are made under the project’s license and may be used, modified, and distributed as part of the KAIROX ecosystem.
 
