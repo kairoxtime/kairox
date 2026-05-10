@@ -4,68 +4,58 @@ Complete Navigation Map for All Project Materials
 ---
 
 ## 📘 Core Institutional Documents
-- [WHITEPAPER_V1.md](./missions/WHITEPAPER_V1.md)
-- [ROADMAP_V1.md](/ROADMAP_V1.md)
-- [GOVERNANCE_FRAMEWORK.md](/GOVERNANCE_FRAMEWORK.md)
-- [TREASURY_POLICY.md](/TREASURY_POLICY.md)
-- [MISSION_PROCESS.md](/MISSION_PROCESS.md)
-- [BRAND_GUIDELINES.md](/BRAND_GUIDELINES.md)
-- [LEGAL_DISCLAIMER.md](/core/LEGAL_DISCLAIMER.md)
+- [Whitepaper v1](./core/WHITEPAPER_V1.md)
+- [Roadmap v1](./core/ROADMAP_V1.md)
+- [Treasury Policy](./core/TREASURY_POLICY.md)
+- [Legal Disclaimer](./core/LEGAL_DISCLAIMER.md)
+- [Governance Framework](./GOVERNANCE_FRAMEWORK.md)
+- [Mission Process](./MISSION_PROCESS.md)
 
 ---
 
 ## 📝 Templates
-- [KAIROX_PROPOSAL_TEMPLATE.md](/KAIROX_PROPOSAL_TEMPLATE.md)
-- [IMPACT_REPORT_TEMPLATE.md](/IMPACT_REPORT_TEMPLATE.md)
+- [Proposal Template](./KAIROX_PROPOSAL_TEMPLATE.md)
+- [Impact Report Template](./IMPACT_REPORT_TEMPLATE.md)
 
 ---
 
 ## 🗳️ Governance & Proposals
-- Governance Framework → [GOVERNANCE_FRAMEWORK.md](/GOVERNANCE_FRAMEWORK.md)  
-- Proposal Template → [KAIROX_PROPOSAL_TEMPLATE.md](/KAIROX_PROPOSAL_TEMPLATE.md)  
-- Active Proposals → [/proposals](/proposals)  
-- Archived Proposals → [/proposals/archive](/proposals/archive)
+- [Governance Framework](./GOVERNANCE_FRAMEWORK.md)  
+- [Proposal Template](./KAIROX_PROPOSAL_TEMPLATE.md)  
+- [Active Proposals](./proposals/)  
+- [Archived Proposals](./proposals/archive/)
 
 ---
 
 ## 💰 Treasury & Reporting
-- Treasury Policy → [TREASURY_POLICY.md](/TREASURY_POLICY.md)  
-- Treasury Reports → [/treasury-reports](/treasury-reports)  
-- Multisig Information → (to be added)
+- [Treasury Policy](./core/TREASURY_POLICY.md)  
+- [Treasury Reports](./treasury-reports/)  
+- **Multisig Information:** (Pending Graduation from Pump.fun)
 
 ---
 
 ## 🌱 Humanitarian Missions
-- Mission Process → [MISSION_PROCESS.md](/MISSION_PROCESS.md)  
-- Impact Reports → [/impact-reports](/impact-reports)  
-- Mission Templates → [IMPACT_REPORT_TEMPLATE.md](/IMPACT_REPORT_TEMPLATE.md)
+- [Mission Process](./MISSION_PROCESS.md)  
+- [Impact Reports](./impact-reports/)  
+- [Mission Templates](./IMPACT_REPORT_TEMPLATE.md)
 
 ---
 
 ## 🧩 Community Standards
-- [CONTRIBUTING.md](/CONTRIBUTING.md)
-- [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md)
-- [SECURITY.md](/SECURITY.md)
-
----
-
-## 🎨 Brand & Assets
-- Brand Guidelines → [BRAND_GUIDELINES.md](/BRAND_GUIDELINES.md)  
-- Brand Assets → [/assets/brand](/assets/brand)
+- [Contributing Guidelines](./CONTRIBUTING.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
+- [Security Policy](./SECURITY.md)
 
 ---
 
 ## 🧱 Repository Structure
-- [/docs](/docs)
-- [/community](/community)
-- [/proposals](/proposals)
-- [/impact-reports](/impact-reports)
-- [/treasury-reports](/treasury-reports)
-- [/assets/brand](/assets/brand)
-- [/core](/core)
+- [/core](./core/) — Institutional foundations
+- [/proposals](./proposals/) — Governance records
+- [/missions](./missions/) — Mission tracking
+- [/treasury-reports](./treasury-reports/) — Financial audits
+- [/archive](./archive/) — Legacy documentation
 
 ---
-
 Prepared by O. KAIROX — Founder  
 KAIROX — Humanitarian Blockchain Project  
 © All Rights Reserved
