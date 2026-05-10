@@ -1,103 +1,60 @@
-# KAIROX — Humanitarian Blockchain Protocol  
-[![Status](https://img.shields.io/badge/Status-Audit%20Phase%201-blue)](https://github.com/kairoxtime/kairox/issues)
-[![Governance](https://img.shields.io/badge/Governance-Active-blueviolet)](https://github.com/kairoxtime/kairox#governance)
-[![Documentation](https://img.shields.io/badge/Documentation-Structured-success)](https://github.com/kairoxtime/kairox/tree/main)
-[![Security](https://img.shields.io/badge/Security-Policy%20Enforced-red)](https://github.com/kairoxtime/kairox/blob/main/SECURITY.md)
-[![License](https://img.shields.io/badge/License-MIT-black)](https://github.com/kairoxtime/kairox/blob/main/LICENSE.md)
+# KAIROX (KRX) — Humanitarian Blockchain Protocol
 
-A transparent, community‑governed framework for global humanitarian coordination.
-
-## Overview  
-KAIROX is a humanitarian blockchain protocol designed to coordinate missions, proposals, funding, and community governance with full transparency. This repository contains the institutional documentation, governance framework, operational processes, and templates that define the KAIROX ecosystem.
-
-## Mission  
-To empower global humanitarian action through transparent, decentralized, and community‑driven coordination. KAIROX provides a structured, auditable, and scalable framework for missions, proposals, and long‑term stewardship.
-
-## Repository Structure  
-
-### Root Documents  
-- [WHITEPAPER_V1.md](./missions/WHITEPAPER_V1.md)
-- [ROADMAP_V1.md](./ROADMAP_V1.md)  
-- [SECURITY.md](./SECURITY.md)  
-- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)  
-- [GOVERNANCE_FRAMEWORK.md](./GOVERNANCE_FRAMEWORK.md)  
-- [PROPOSALS_OVERVIEW.md](./PROPOSALS_OVERVIEW.md)  
-- [KAIROX_PROPOSAL_TEMPLATE.md](./KAIROX_PROPOSAL_TEMPLATE.md)  
-- [MISSION_PROCESS.md](./MISSION_PROCESS.md)  
-- [IMPACT_REPORT_TEMPLATE.md](./IMPACT_REPORT_TEMPLATE.md)  
-- [INDEX.md](./INDEX.md)
-
-### Proposals (`/proposals`)  
-- [CONTRIBUTING.md](./proposals/CONTRIBUTING.md)  
-- [README.md](./proposals/README.md)  
-- Proposal templates, governance documents, and proposal archives
-
-### Missions (`/missions`)  
-- [README.md](./missions/README.md)  
-- Mission archives and operational documentation
-
-### Archive (`/archive`)  
-- Historical documents and deprecated materials
-
-## Governance  
-KAIROX governance is defined by a transparent, community‑driven framework. All contributors and participants must follow:  
-- [GOVERNANCE_FRAMEWORK.md](./GOVERNANCE_FRAMEWORK.md)  
-- [PROPOSALS_OVERVIEW.md](./PROPOSALS_OVERVIEW.md)  
-- [KAIROX_PROPOSAL_TEMPLATE.md](./KAIROX_PROPOSAL_TEMPLATE.md)
-
-Governance decisions follow structured review, evaluation, and approval processes.
-
-## Security  
-Security is a core pillar of KAIROX. All contributors must follow:  
-- [SECURITY.md](./SECURITY.md)
-
-Security issues must not be reported publicly. Follow the private reporting process described in the document.
-
-## Contributing  
-We welcome contributions aligned with the mission and governance of KAIROX. Before contributing, please review:  
-- [CONTRIBUTING.md](./proposals/CONTRIBUTING.md)  
-- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)  
-- [SECURITY.md](./SECURITY.md)
-
-All contributions must follow the institutional commit message format and documentation standards.
-
-## Code of Conduct  
-All community members and contributors must follow:  
-- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
-
-Respect, professionalism, and integrity are mandatory across all interactions.
-
-## Documentation Index  
-A complete index of all documents is available here:  
-- [INDEX.md](./INDEX.md)
+<p align="center">
+  <a href="https://solscan.io/token/8Euwsi55sYUAQVXWro3Kt7oCK4EKaPvencw9CjrTpump">
+    <img src="https://img.shields.io/badge/Network-Solana-blue?style=for-the-badge&logo=solana" alt="Solana Network">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Phase_1_Foundation-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Audit-Ready-brightgreen?style=for-the-badge" alt="Audit Ready">
+</p>
 
 ---
 
-## Institutional Audits & Governance Tracking
+## 🌍 Vision
+KAIROX is an institutional-grade humanitarian initiative built on the **Solana** network. We leverage blockchain technology to deliver verifiable, transparent aid to low-income families, vulnerable communities, and individuals in recovery.
 
-KAIROX maintains a structured, audit‑ready issue system to ensure long‑term transparency, documentation integrity, and governance alignment.  
-All institutional reviews are organized through:
-
-- **[Institutional Audit Dashboard (#11)](https://github.com/kairoxtime/kairox/issues/11)** — Centralized view of all Phase 1 audits  
-- **Standardized institutional labels** (`institutional`, `audit`, `documentation`, `structure`, `governance`, `terminology`, `roadmap`)  
-- **Three governance milestones**:
-  - Institutional Audit — Phase 1  
-  - Governance & Documentation Consolidation — Phase 2  
-  - Protocol Activation & Contributor Onboarding — Phase 3  
-
-These elements work together to maintain clarity, structure, and audit‑readiness across the entire repository.
+**Built with intention, not hype.** KAIROX transforms transaction volume into real-world impact.
 
 ---
 
-## Legal  
-All contributions are made under the project’s license and may be used, modified, and distributed as part of the KAIROX ecosystem.
+## 🏛️ Institutional Framework
+KAIROX operates under a strict documentation and governance structure. Every move is governed by the protocols defined in our core library.
 
-## License  
-This project is released under the MIT License.  
-See the full license text here: [LICENSE](./LICENSE.md)
+### 📍 [Quick Navigation — Documentation Index](./INDEX.md)
+
+| Document | Purpose | Location |
+| :--- | :--- | :--- |
+| **Whitepaper v1** | Vision, Mission & Tech | [`/core/WHITEPAPER_V1.md`](./core/WHITEPAPER_V1.md) |
+| **Treasury Policy** | Financial Rules & Fees | [`/core/TREASURY_POLICY.md`](./core/TREASURY_POLICY.md) |
+| **Roadmap v1** | Strategic Milestones | [`/core/ROADMAP_V1.md`](./core/ROADMAP_V1.md) |
+| **Governance** | Decision-making | [`./GOVERNANCE_FRAMEWORK.md`](./GOVERNANCE_FRAMEWORK.md) |
 
 ---
 
-Prepared by O. KAIROX — Founder  
-KAIROX — Humanitarian Blockchain Project  
-© All Rights Reserved
+## 📈 Current Token Status (KRX)
+* **Official Contract (CA):** `8Euwsi55sYUAQVXWro3Kt7oCK4EKaPvencw9CjrTpump`
+* **Explorer:** [View on Solscan](https://solscan.io/token/8Euwsi55sYUAQVXWro3Kt7oCK4EKaPvencw9CjrTpump)
+* **Trade:** [Buy on Pump.fun](https://pump.fun/8Euwsi55sYUAQVXWro3Kt7oCK4EKaPvencw9CjrTpump)
+* **Security:** Mint & Freeze Authorities **Renounced**.
+* **Phase:** Foundation (Bonding Curve).
+
+> [!TIP]
+> Always verify that the Contract Address ends in **`pump`** to ensure you are interacting with the official KAIROX protocol.
+
+---
+
+## 🤝 Transparency & Accountability
+Unlike traditional tokens, KAIROX uses a **Proof-of-Impact** model to ensure every dollar counts:
+1.  **Selection:** Missions are proposed and vetted via the [Mission Process](./MISSION_PROCESS.md).
+2.  **Execution:** Aid is delivered and documented with on-chain proof.
+3.  **Audit:** Every cent spent is recorded in the [`/treasury-reports`](./treasury-reports/) folder.
+
+---
+
+## 🔗 Official Channels
+* **Website:** [kairoxtime.carrd.co](https://kairoxtime.carrd.co/)
+* **X (Twitter):** [@kairoxtime](https://x.com/kairoxtime)
+* **Telegram:** [KAIROX Observation](https://t.me/kairoxobservation)
+
+---
+**Prepared by O. KAIROX — Founder** *KAIROX — Humanitarian Blockchain Project* © 2026 All Rights Reserved
