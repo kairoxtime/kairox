@@ -53,7 +53,7 @@ Unlike traditional tokens, KAIROX uses a **Proof-of-Impact** model to ensure eve
 
 ## 🔗 Official Channels
 * **Website:** [kairoxtime.carrd.co](https://kairoxtime.carrd.co/)
-* **X (Twitter):** [@kairoxprotocol](https://x.com/kairoxtime)
+* **X (Twitter):** [@kairoxprotocol](https://x.com/kairoxprotocol)
 * **Telegram:** [KAIROX Observation](https://t.me/kairoxobservation)
 
 ---
