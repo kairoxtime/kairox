@@ -6,7 +6,7 @@
 ## 1. Overview  
 This roadmap outlines the phased development of the KAIROX ecosystem. It is designed to ensure transparency, responsible growth, and alignment with the project’s humanitarian mission. Each phase builds on the previous one, ensuring long‑term sustainability and operational clarity.
 
-For governance details, see the [Governance Framework](../GOVERNANCE_FRAMEWORK.md).  
+For governance details, see the [Governance Framework](../proposals/GOVERNANCE_FRAMEWORK.md).  
 For mission execution, see the [Mission Process](../MISSION_PROCESS.md).
 
 ---
@@ -15,6 +15,7 @@ For mission execution, see the [Mission Process](../MISSION_PROCESS.md).
 **Objectives:**
 - Establish the humanitarian mission  
 - Deploy initial token (KRX) on Solana  
+- Establish cryptographic trust baseline via initial team token lockup  
 - Build the core community  
 - Publish foundational documentation  
 - Begin early humanitarian actions  
@@ -23,7 +24,8 @@ For mission execution, see the [Mission Process](../MISSION_PROCESS.md).
 **Deliverables:**
 - [Whitepaper v1](./WHITEPAPER_V1.md)  
 - [Roadmap v1](./ROADMAP_V1.md)  
-- [Governance Framework](../GOVERNANCE_FRAMEWORK.md)  
+- Public Streamflow time-lock contract deployment (Verifiable Team Lock)  
+- [Governance Framework](../proposals/GOVERNANCE_FRAMEWORK.md)  
 - [Legal Disclaimer](./LEGAL_DISCLAIMER.md)  
 - Repository structure  
 - Initial impact reports  
@@ -80,11 +82,13 @@ See the [Proposals Overview](../PROPOSALS_OVERVIEW.md).
 **Objectives:**
 - Deploy KRX2 on Solana  
 - Assign mint and freeze authority to multisig  
+- Transition to programmatic, protocol-enforced team vesting schedules  
 - Prepare 1:1 swap  
 - Document all transactions  
 
 **Deliverables:**
 - KRX2 contract  
+- Custom vesting smart contracts & on-chain verification  
 - Swap interface  
 - Migration report  
 - Updated documentation  
