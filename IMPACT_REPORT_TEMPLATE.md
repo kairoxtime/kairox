@@ -79,9 +79,9 @@ Summarize insights that can improve future missions.
 ## 10. Related Documents  
 Link to relevant internal documents:
 
-- [MISSION_PROCESS.md](MISSION_PROCESS.md)  
-- [KAIROX_PROPOSAL_TEMPLATE.md](proposals/KAIROX_PROPOSAL_TEMPLATE.md)  
-- [GOVERNANCE_FRAMEWORK.md](proposals/GOVERNANCE_FRAMEWORK.md)
+- [MISSION_PROCESS.md](./MISSION_PROCESS.md)  
+- [KAIROX_PROPOSAL_TEMPLATE.md](./proposals/KAIROX_PROPOSAL_TEMPLATE.md)  
+- [GOVERNANCE_FRAMEWORK.md](./proposals/GOVERNANCE_FRAMEWORK.md)
 
 ---
 
