@@ -59,7 +59,7 @@ Unlike traditional tokens, KAIROX uses a **Proof-of-Impact** model to ensure eve
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
 
 ---
 **Prepared by O. KAIROX — Founder** *KAIROX — Humanitarian Blockchain Project* © 2026 All Rights Reserved
