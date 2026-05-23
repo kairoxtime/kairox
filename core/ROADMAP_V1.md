@@ -54,7 +54,7 @@ For mission execution, see the [Mission Process](../MISSION_PROCESS.md).
 
 **Deliverables:**
 - Proposal system  
-- [Proposal templates](../KAIROX_PROPOSAL_TEMPLATE.md)  
+- [Proposal templates](../proposals/KAIROX_PROPOSAL_TEMPLATE.md)  
 - Governance cycles  
 - Contributor guidelines  
 
