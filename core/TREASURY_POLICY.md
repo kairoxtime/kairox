@@ -29,18 +29,18 @@ Once the operational treasury is formed, all inflows will be distributed as foll
 
 ### 4.1 Team Token Allocation & Vesting Framework
 To guarantee absolute market alignment, investor protection, and cryptographic transparency, all tokens acquired or reserved for the core development team and founders are subject to strict lockup and vesting parameters:
-* **Foundational Phase (Pump.fun):** Any initial tokens secured by the founders at launch will be manually time-locked via **Streamflow Protocol** for a minimum duration of six (6) months. The public cryptographic verification link will be officially published across community channels for public auditing.
+* **Foundational Phase (Pump.fun):** Any initial tokens secured by the founders at launch will be manually time-locked via **Streamflow Protocol** for a minimum duration of six (6) months. the public cryptographic verification link will be officially published across community channels for public auditing.
 * **Post-Migration Phase (KRX2):** The formal team allocation defined in the ecosystem tokenomics will be programmatically enforced via smart-contract architecture. These funds will feature a three (3) month cliff followed by a linear monthly release over twelve (12) months, strictly preventing abrupt team liquidation events.
 
 ## 5. Spending Limits & Thresholds
 To prevent fund misuse, the following limits are established:
 * **Micro-Disbursements:** Minor operational expenses (e.g., server fees) may be executed by the founder subject to subsequent audit.
-* **Major Mission Funding:** Any expenditure exceeding **5% of the total treasury** must undergo a governance review cycle as defined in the [Governance Framework](../GOVERNANCE_FRAMEWORK.md).
+* **Major Mission Funding:** Any expenditure exceeding **5% of the total treasury** must undergo a governance review cycle as defined in the [Governance Framework](../proposals/GOVERNANCE_FRAMEWORK.md).
 
 ## 6. Transparency & Auditing
 * **Public Dashboard:** All treasury addresses are public and linked in the [INDEX.md](../INDEX.md) of the repository.
 * **Real-Time Tracking:** Participants are encouraged to monitor flows through Solscan or dedicated blockchain explorers.
-* **Institutional Audits:** At the end of each phase in the [Roadmap v1](./ROADMAP_V1.md), an account reconciliation will be performed and published as an Audit Report in the [archive](../archive/) folder.
+* **Institutional Audits:** At the end of each phase in the [Roadmap v1](./ROADMAP_V1.md), an account reconciliation will be performed and published as an Audit Report in the [treasury-reports](../treasury-reports/) folder.
 
 ## 7. Prohibited Activities
 The KAIROX Treasury is strictly prohibited from:
