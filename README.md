@@ -27,7 +27,7 @@ KAIROX operates under a strict documentation and governance structure. Every mov
 | **Whitepaper v1** | Vision, Mission & Tech | [`/core/WHITEPAPER_V1.md`](./core/WHITEPAPER_V1.md) |
 | **Treasury Policy** | Financial Rules & Fees | [`/core/TREASURY_POLICY.md`](./core/TREASURY_POLICY.md) |
 | **Roadmap v1** | Strategic Milestones | [`/core/ROADMAP_V1.md`](./core/ROADMAP_V1.md) |
-| **Governance** | Decision-making | [`./GOVERNANCE_FRAMEWORK.md`](./GOVERNANCE_FRAMEWORK.md) |
+| **Governance** | Decision-making | [`/proposals/GOVERNANCE_FRAMEWORK.md`](./proposals/GOVERNANCE_FRAMEWORK.md) |
 
 ---
 
@@ -55,6 +55,11 @@ Unlike traditional tokens, KAIROX uses a **Proof-of-Impact** model to ensure eve
 * **Website:** [kairoxtime.carrd.co](https://kairoxtime.carrd.co/)
 * **X (Twitter):** [@kairoxprotocol](https://x.com/kairoxprotocol)
 * **Telegram:** [KAIROX Observation](https://t.me/kairoxobservation)
+
+---
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 **Prepared by O. KAIROX — Founder** *KAIROX — Humanitarian Blockchain Project* © 2026 All Rights Reserved
