@@ -19,10 +19,10 @@ All proposals must follow the official KAIROX Proposal Template.
 
 ## How to Submit a Proposal
 1. Copy the official template:  
-   → [KAIROX_PROPOSAL_TEMPLATE.md](./KAIROX_PROPOSAL_TEMPLATE.md)
+   → [KAIROX_PROPOSAL_TEMPLATE.md](./proposals/KAIROX_PROPOSAL_TEMPLATE.md)
 
 2. Review the governance rules:  
-   → [GOVERNANCE_FRAMEWORK.md](./GOVERNANCE_FRAMEWORK.md)
+   → [GOVERNANCE_FRAMEWORK.md](./proposals/GOVERNANCE_FRAMEWORK.md)
 
 3. Create a new file inside this folder using the following naming convention:  
    `proposal-short-title-YYYY-MM-DD.md`  
@@ -48,16 +48,16 @@ A proposal typically moves through the following stages:
 5. Archived — Moved to /proposals/archive after completion or rejection  
 
 Archive folder:  
-→ [proposals/archive](./archive)
+→ [proposals/archive](./proposals/archive)
 
 ---
 
 ## Related Documents
-- [INDEX.md](../INDEX.md)  
-- [GOVERNANCE_FRAMEWORK.md](./GOVERNANCE_FRAMEWORK.md)  
-- [MISSION_PROCESS.md](../missions/MISSION_PROCESS.md)  
-- [KAIROX_PROPOSAL_TEMPLATE.md](./KAIROX_PROPOSAL_TEMPLATE.md)  
-- [IMPACT_REPORT_TEMPLATE.md](../IMPACT_REPORT_TEMPLATE.md)
+- [INDEX.md](./INDEX.md)  
+- [GOVERNANCE_FRAMEWORK.md](./proposals/GOVERNANCE_FRAMEWORK.md)  
+- [MISSION_PROCESS.md](./missions/MISSION_PROCESS.md)  
+- [KAIROX_PROPOSAL_TEMPLATE.md](./proposals/KAIROX_PROPOSAL_TEMPLATE.md)  
+- [IMPACT_REPORT_TEMPLATE.md](./IMPACT_REPORT_TEMPLATE.md)
 
 ---
 
