@@ -10,21 +10,21 @@ The Mission Process defines how humanitarian missions are proposed, approved, ex
 ---
 
 ## Related Documents
-- [Governance Framework](./proposals/GOVERNANCE_FRAMEWORK.md) — Decision-making rules.
-- [Proposal Template](./proposals/KAIROX_PROPOSAL_TEMPLATE.md) — Mission submission format.
-- [Impact Report Template](./IMPACT_REPORT_TEMPLATE.md) — Post-mission documentation.
-- [Mission Directory](./missions/README.md) — Access to active and archived missions.
+- [Governance Framework](../proposals/GOVERNANCE_FRAMEWORK.md) — Decision-making rules.
+- [Proposal Template](../proposals/KAIROX_PROPOSAL_TEMPLATE.md) — Mission submission format.
+- [Impact Report Template](../IMPACT_REPORT_TEMPLATE.md) — Post-mission documentation.
+- [Mission Directory](./README.md) — Access to active and archived missions.
 
 ---
 
 ## Mission Lifecycle
 
 ### 1. Mission Proposal
-A mission begins with a formal proposal using the [Official Template](./proposals/KAIROX_PROPOSAL_TEMPLATE.md).
+A mission begins with a formal proposal using the [Official Template](../proposals/KAIROX_PROPOSAL_TEMPLATE.md).
 **Must include:** Objectives, budget, timeline, and a clear verification plan.
 
 ### 2. Mission Review & Approval
-Governance Maintainers evaluate alignment with KAIROX values. Approval follows the [Governance Framework](./proposals/GOVERNANCE_FRAMEWORK.md) (Bootstrap Phase).
+Governance Maintainers evaluate alignment with KAIROX values. Approval follows the [Governance Framework](../proposals/GOVERNANCE_FRAMEWORK.md) (Bootstrap Phase).
 
 ### 3. Execution & Treasury
 Funds are released in phases based on milestones.
@@ -38,7 +38,7 @@ Verification ensures outcomes are real. This includes:
 - Third-party or beneficiary confirmation.
 
 ### 5. Impact Reporting & Audit
-After completion, a final [Impact Report](./IMPACT_REPORT_TEMPLATE.md) is submitted and permanently archived in `/missions/archive/`.
+After completion, a final [Impact Report](../IMPACT_REPORT_TEMPLATE.md) is submitted and permanently archived in `/missions/archive/`.
 
 ---
 
